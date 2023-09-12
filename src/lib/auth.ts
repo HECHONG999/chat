@@ -31,8 +31,8 @@ export const authOptions: NextAuthOptions = {
   },
   providers: [
     GoogleProvider({
-      clientId: getGoogleCredentials().clientId,
-      clientSecret: getGoogleCredentials().clientSecret,
+      clientId: '760503475231-m3njpenar6dpg1apjqh7lo4qfbgecdoo.apps.googleusercontent.com',
+      clientSecret: 'AIzaSyASM_idCs8GkMB6loyJJmEfRIIJGBWPfSg',
     }),
     GithubProvider({
       clientId: '096ac699f576e6414c61',
