@@ -12,6 +12,6 @@ export const pusherServer = new PusherServer({
 export const pusherClient = new PusherClient(
   '2e309163186605ef4669',
   {
-    cluster: 'eu',
+    cluster: 'ap1',
   }
 )

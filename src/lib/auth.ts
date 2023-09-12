@@ -31,8 +31,8 @@ export const authOptions: NextAuthOptions = {
   },
   providers: [
     GoogleProvider({
-      clientId: '760503475231-m3njpenar6dpg1apjqh7lo4qfbgecdoo.apps.googleusercontent.com',
-      clientSecret: 'AIzaSyASM_idCs8GkMB6loyJJmEfRIIJGBWPfSg',
+      clientId: '760503475231-he1vcoh4aih2nsa8lels4qrpf4toggvh.apps.googleusercontent.com',
+      clientSecret: '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',
     }),
     GithubProvider({
       clientId: '6d6b153a6f77e819ba70',
